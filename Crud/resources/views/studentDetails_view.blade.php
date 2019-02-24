@@ -29,6 +29,7 @@
 							<a class="dropdown-item" href="{{route('course.create')}}">Add Course</a>
 							<div class="dropdown-divider"></div>
 							<a class="dropdown-item" href="#">Add Marks</a>
+							<a class="dropdown-item" href="#">Add Marks</a><a class="dropdown-item" href="#">Add Marks</a><a class="dropdown-item" href="#">Add Marks</a>
 						</div>
 					</li>
 				</ul>
