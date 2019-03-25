@@ -36,6 +36,7 @@
 					
 					<div class="form-group col-lg-6">
 						<button type="submit" class="btn">Save</button>
+						<button type="submit" class="btn">Save</button>
 						<button type="button" class="btn">Cancel</button>
 					</div>
 				</div>
